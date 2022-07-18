@@ -88,7 +88,7 @@ public class ResourceCentre {
 				}
 
 			} else if (option == 5) {
-				System.out.println("Bye! Have a great time");
+				System.out.println("Bye! Have a great time!");
 			} else {
 				System.out.println("Invalid option");
 			}

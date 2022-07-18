@@ -11,7 +11,8 @@ public class ResourceCentre {
 		camcorderList.add(new Camcorder("CC002", "Panasonic HC-MDH2", 10));
 		chromebookList.add(new Chromebook("CB001", "ASUS Chromebook ", "Win 10"));
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
-
+		//chromebookList.add(new Camcorder("CC003", "HP Chromebook1111", 40));
+		
 		int option = 0;
 
 		while (option != 5) {
@@ -87,7 +88,7 @@ public class ResourceCentre {
 				}
 
 			} else if (option == 5) {
-				System.out.println("Bye!");
+				System.out.println("Bye! Have a great time");
 			} else {
 				System.out.println("Invalid option");
 			}

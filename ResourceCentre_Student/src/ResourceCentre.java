@@ -5,7 +5,7 @@ public class ResourceCentre {
 	/**
 	 * 
 	 */
-	private static final int OPTION_RETURN = 4;
+	private static final int OPTION_RETURN = ;
 	/**
 	 * 
 	 */

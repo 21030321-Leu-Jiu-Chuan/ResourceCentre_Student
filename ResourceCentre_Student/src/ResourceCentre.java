@@ -5,11 +5,11 @@ public class ResourceCentre {
 	/**
 	 * 
 	 */
-	private static final int OPTION_RETURN = ;
+	private static final int OPTION_RETURN =4 ;
 	/**
 	 * 
 	 */
-	private static final int OPTION_LOAN = 3;
+	private static final int OPTION_LOAN = ;
 	/**
 	 * 
 	 */
